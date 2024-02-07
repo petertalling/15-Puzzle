@@ -1,0 +1,116 @@
+body{
+    display: flex;
+    flex-direction: row;
+    background-color: #eee9d9;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 120px);
+    grid-template-rows: repeat(4, 120px);
+}
+.navigation{
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.buttons{
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: monospace;
+}
+
+.h1{
+    font-family:monospace;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align-last:center;
+}
+
+.img0{
+    background-image: url("bilder/brickDesign0.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1NTLBWqqD4xuc4fKacwOozXdjBlUC5gAX" */
+    /*alternativ "https://drive.google.com/uc?export=view&id=17AP9-AMSGpI3RfGRZYifiSgaOlXfZWfR" */
+    background-size: contain;
+}
+.img1{
+    background-image: url("bilder/brickDesign1.jpg");
+    /* "https://drive.google.com/uc?export=view&id=13UIHGNuv9aJdYg0JRoPz2Nv0aNhQcXmH" */
+    background-size: contain;
+}
+.img2{
+    background-image: url("bilder/brickDesign2.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1sP5hjQitGHSJO-1FBTay1AMiPM9n0840" */
+    background-size: contain;
+}
+.img3{
+    background-image: url("bilder/brickDesign3.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1Kk2N6YvNaTm1Mu7xG8otsYosfNIWBoUZ" */
+    background-size: contain;
+}
+.img4{
+    background-image: url("bilder/brickDesign4.jpg");
+     /* "https://drive.google.com/uc?export=view&id=19CW6pbxfWw4EjXkkH3oeeMHKJZEU4gcC" */
+    background-size: contain;
+}
+.img5{
+    background-image: url("bilder/brickDesign5.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1jS8F9xN09hnPN9X8pVZphBgR0_6wl_0v" */
+    background-size: contain;
+}
+.img6{
+    background-image: url("bilder/brickDesign6.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1kMG8IJtyS_Mln42sru2fk8V4YTQd0hGU" */
+    background-size: contain;
+}
+.img7{
+    background-image: url("bilder/brickDesign7.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1T1DmMJtf0x3IgkpIni4SApPAd4os-CHc" */
+    background-size: contain;
+}
+.img8{
+    background-image: url("bilder/brickDesign8.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1sHwBn0WIDuSJGezWMlwHkjphMYNL7IVk" */
+    background-size: contain;
+}
+.img9{
+    background-image: url("bilder/brickDesign9.jpg");
+    /* "https://drive.google.com/uc?export=view&id=14LPa-kfzlpsfAlBHhfMaJTbFtJeQaUiX" */
+    background-size: contain;
+}
+.img10{
+    background-image: url("bilder/brickDesign10.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1-w1MNyDpGG_SMnU3ax-VQzR9rxCLfLf0" */
+    background-size: contain;
+}.img11{
+    background-image: url("bilder/brickDesign11.jpg");
+    /* "https://drive.google.com/uc?export=view&id=17_Vbouq5xeNVfl-xXZVHEcUDKMHlGflL" */
+    background-size: contain;
+}
+.img12{
+    background-image: url("bilder/brickDesign12.jpg");
+    /* "https://drive.google.com/uc?export=view&id=15hsMkTDQMGGk0BcBYNaxpr_mNV5vfwns" */
+
+    background-size: contain;
+}
+.img13{
+    background-image: url("bilder/brickDesign13.jpg");
+     /* "https://drive.google.com/uc?export=view&id=1GG9jJ65EDKGyMfYoc72WH--W_ywByOEn" */
+    background-size: contain;
+}
+.img14{
+    background-image: url("bilder/brickDesign14.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1jw4BCBwb7Y09lQOHOizPFHUlLT2xBt2g" */
+    background-size: contain;
+}
+.img15{
+    background-image: url("bilder/brickDesign15.jpg");
+    /* "https://drive.google.com/uc?export=view&id=1_xYTdbm4vfWtFuJXiEqnD4cMaChlh_ZH" */
+    background-size: contain;
+}
